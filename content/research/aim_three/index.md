@@ -1,8 +1,9 @@
 ---
-title: Primary care
+title: Social Network-Optimized Behavioral Interventions
 
 
 ---
 
-Developing a collaborative chronic disease management model involving primary healthcare providers and families to effectively prevent dementia at the primary care level, to provide community-based management strategies
+Elucidate gender-specific social support mechanisms using dyadic/social network analysis, and design targeted interventions through behavioral economic nudges to enhance cognitive resilience via community networks.
+
 <!--more-->
