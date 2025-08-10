@@ -8,11 +8,12 @@ authors:
 - Ni Gong
 
 ---
-
+<!--more-->
 
 # Research purposes
 To outline the current rural end-of-life practice landscape, and construct a culturally adapted rural end-of-life care model.
 # Research content
 1. Local knowledge of end-of-life practices in rural areas
 2. Cultural adaptation of local knowledge and end-of-life care
+
 3. Based on "cultural adaptation", construct a culturally appropriate rural end-of-life care model
