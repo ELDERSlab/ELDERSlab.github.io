@@ -1,5 +1,5 @@
 ---
-title: UKCHASCAP
+title: Other projects
 
 # 开始时间和结束时间
 date: '2017-06-01T13:00:00Z'
@@ -7,12 +7,16 @@ date_end: '2018-06-01T15:00:00Z'
 
 ---
 
+<!--more-->
+
 
 # National Natural Science Foundation projects/topics hosted or participated in:
 1. National Natural Science Foundation of China, International (Regional) Cooperation and Exchange Project, 72181240169, Science and Technology Empower Community Elderly Family Health Management under the Normalization of COVID-19 Pandemic, 2021-10-09 to 2021-12-31, 18,500 Yuan, Conclusion, Chair
 2. National Natural Science Foundation of China, General Project, 71974211, Evaluation and Comparison of Medical Quality of Private and Public Primary Health Institutions Based on Standardized Patient Method, 2020-01-01 to 2023-12-31, 485,000 yuan, in research, participation
 3. National Social Science Foundation of China, 20AZD070, Research on the Construction of Inclusive Hospice Care System with Chinese Characteristics, Key Project, 350,000, Research, Participation
 4. National Social Science Foundation, China's experience in building a human health community and global sharing research, major research projects, 800,000, in research, participation
+<br>
+<br>
 <br>
 
 # Other research projects/topics hosted or participated in (excluding National Natural Science Foundation projects):
@@ -25,4 +29,5 @@ date_end: '2018-06-01T15:00:00Z'
 7. Ministry of Education Humanities and Social Sciences Project, 18YJC840013, Social and Cultural Cognitive Research on Cancer Health Screening from the Perspective of Disease Stigma, 2018/06-2021/08, 80,000, Conclusion, Moderator
 8. Natural Science Foundation of Guangdong Province, 2018A030310305, Study on the social and psychological mechanism of cancer health screening behavior in first-degree relatives of colorectal cancer patients, 2018/06-2021/08, 100,000, conclusion, moderator
 9. Guangdong Medical Foundation, A2017080, Study on the medical treatment mode of colorectal cancer stoma patients, 2016/12-2020/07, 10,000, conclusion, moderator
+
 10. Teaching Quality and Teaching Reform Project of Jinan University, special project of characteristic golden course, interdisciplinary integration research of "Nursing Sociology" based on practical education context, March 2022, 10,000, in research, presided over
