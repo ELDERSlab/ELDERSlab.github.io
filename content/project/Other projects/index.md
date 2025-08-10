@@ -9,7 +9,7 @@ date_end: '2018-06-01T15:00:00Z'
 
 
 
-### National Natural Science Foundation projects/topics hosted or participated in:
+##### National Natural Science Foundation projects/topics hosted or participated in:
 1. National Natural Science Foundation of China, International (Regional) Cooperation and Exchange Project, 72181240169, Science and Technology Empower Community Elderly Family Health Management under the Normalization of COVID-19 Pandemic, 2021-10-09 to 2021-12-31, 18,500 Yuan, Conclusion, Chair
 2. National Natural Science Foundation of China, General Project, 71974211, Evaluation and Comparison of Medical Quality of Private and Public Primary Health Institutions Based on Standardized Patient Method, 2020-01-01 to 2023-12-31, 485,000 yuan, in research, participation
 3. National Social Science Foundation of China, 20AZD070, Research on the Construction of Inclusive Hospice Care System with Chinese Characteristics, Key Project, 350,000, Research, Participation
@@ -18,7 +18,7 @@ date_end: '2018-06-01T15:00:00Z'
 <br>
 <br>
 
-### Other research projects/topics hosted or participated in (excluding National Natural Science Foundation projects):
+##### Other research projects/topics hosted or participated in (excluding National Natural Science Foundation projects):
 1. Guangdong Basic and Applied Basic Research Fund Committee, Guangdong-Hong Kong-Macao Research Team Project, 2022B1515130004, Research on Colorectal Adenoma Community Screening System, 2022-10 to 2026-09, 2 million yuan, in research, participating
 2. Royal Society, the lnternational Exchanges 2022 Round 2 scheme, IESIR2222002, Enhancing population health metrics in ageing research: a collaborative network between the UK and China, 2023-02 to 2025-04, 100,000 yuan, in progress, moderator
 3. US Chinese Medical Foundation, Open Bidding Project, Grant 18-300, Evaluating Quality of Primar y Health Care with Smartphone-Based Virtual Patients: A Multicenter Development & Validation Study in Seven Provinces of China, 2019-01 to 2021-12, 560,000 yuan, Completed, Hosted
@@ -31,3 +31,4 @@ date_end: '2018-06-01T15:00:00Z'
 10. Teaching Quality and Teaching Reform Project of Jinan University, special project of characteristic golden course, interdisciplinary integration research of "Nursing Sociology" based on practical education context, March 2022, 10,000, in research, presided over
 
 <!--more-->
+
