@@ -8,3 +8,5 @@ date: 2025-05-12
 <!--more-->
 
 # [原文链接](https://mp.weixin.qq.com/s/sFTNcgsHu7jx-lqYR9dOug)
+
+[A relative link from one post to another post]({{< relref "../publication/Cai_xuan_Wang_2022_Effect_and" >}})
