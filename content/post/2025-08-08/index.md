@@ -6,3 +6,6 @@ date: 2025-08-08
 <!--more-->
 
 # [原文链接](https://mp.weixin.qq.com/s/-Ww6Tckt4zjCicrxfNEnaw)
+
+
+[A publication]({{< relref "/publication/Cai_xuan_Wang_2022_Effect_and" >}})
