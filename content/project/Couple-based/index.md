@@ -17,3 +17,5 @@ To validate a Couple-based Collaborative Management Model of chronic diseases th
 
 3. Study on the impact of epidemic on the collaborative management mode of chronic diseases in elderly couples in the community
 
+
+[Yang, C., Zhi, J., Xu, Y., Fan, X., Wu, X., Xu, D. and Liao, J.*, 2025. A couple-based intervention for Chinese older adults with type 2 diabetes: a randomized clinical trial. JAMA Network Open. 8(1), pp.e2452168.]({{< relref "/publication/Yang_C_2025_Couple_based" >}})
