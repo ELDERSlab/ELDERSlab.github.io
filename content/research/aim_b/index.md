@@ -1,11 +1,12 @@
 ---
-title: Implementation-Ready Dementia-Care Ecosystem
+title: Social Network-Optimized Behavioral Interventions
 
 
 ---
 
-Establish a "physician-patient-family" triadic model via implementation science frameworks, with cost-effectiveness analysis via Markov modeling to quantify long-term benefits of integrated chronic disease-cognitive care in community settings. 
+Elucidate gender-specific social support mechanisms using dyadic/social network analysis, and design targeted interventions through behavioral economic nudges to enhance cognitive resilience via community networks.
 
 <!--more-->
+
 
 
