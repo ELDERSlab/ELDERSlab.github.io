@@ -10,7 +10,7 @@ sections:
     content:
       title: |
         ELDERS
-        Research Lab
+        Lab
       image:
         filename: welcome.jpg
       text: |
