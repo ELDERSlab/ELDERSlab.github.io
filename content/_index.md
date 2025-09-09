@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ELDERS Research Lab
+title: ELDERS Lab
 date: 2025-07-17
 type: landing
 
