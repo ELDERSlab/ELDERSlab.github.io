@@ -4,7 +4,7 @@ title: Yu-Tzu Wu
 
 # Full Name (for SEO)
 
-first_name: Yu-T
+first_name: Yu-Tzu
 
 last_name: Wu
 
