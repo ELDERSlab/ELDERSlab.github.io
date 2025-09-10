@@ -26,13 +26,13 @@ interests:
   - Environmental determinants of healthy ageing
   - Mental and cognitive health in older age
 education:
-courses:
-  - course:PhD Public Health and Primary Care
-institution: University of Cambridge
-  - course: MSc Health and Society: Social Epidemiology
-institution: University College London
-  - course: BSc Public Health
-institution: National Taiwan University
+  courses:
+    - course:PhD Public Health and Primary Care
+      institution: University of Cambridge
+    - course: MSc Health and Society: Social Epidemiology
+      institution: University College London
+    - course: BSc Public Health
+      institution: National Taiwan University
 
 # Social/Academic Networking
 
@@ -86,5 +86,6 @@ highlight_name: false
 
 user_groups:
   - Collaborators
+---
 
 
