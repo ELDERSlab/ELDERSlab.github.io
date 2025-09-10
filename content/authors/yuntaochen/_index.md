@@ -24,7 +24,7 @@ role: "Senior Fellow Researcher,Faculty of Brain Science,University College Lond
 # Organizations/Affiliations
 organizations:
 - name: University College London
-url: ' [https://www.ucl.ac.uk/](https://www.ucl.ac.uk/) '
+  url: ' [https://www.ucl.ac.uk/](https://www.ucl.ac.uk/) '
 
 # 研究方向（必需）
 
@@ -59,23 +59,23 @@ social:
 
 # 邮件（必需）
 
-- icon: envelope
+  - icon: envelope
 
-icon_pack: fas
+    icon_pack: fas
 
-link: "mailto: [yuntao.chen@ucl.ac.uk](mailto:yuntao.chen@ucl.ac.uk) "
+    link: "mailto:yuntao.chen@ucl.ac.uk"
 
-- icon: google-scholar
+  - icon: google-scholar
 
-icon_pack: ai
+    icon_pack: ai
 
-link:  [https://scholar.google.com/citations?user=ydtJY5UAAAAJ&hl=zh-CN&oi=sra](https://scholar.google.com/citations?user=ydtJY5UAAAAJ&hl=zh-CN&oi=sra) 
+    link: "https://scholar.google.com/citations?user=ydtJY5UAAAAJ&hl=zh-CN&oi=sra"
 
-- icon: researchgate
+  - icon: researchgate
 
-icon_pack: fab
+    icon_pack: fab
 
-link:  [https://www.researchgate.net/profile/Yuntao-Chen](https://www.researchgate.net/profile/Yuntao-Chen) 
+    link: "https://www.researchgate.net/profile/Yuntao-Chen"
 
 # Organizational groups that you belong to (for People widget)
 
@@ -84,6 +84,5 @@ link:  [https://www.researchgate.net/profile/Yuntao-Chen](https://www.researchg
 # 在读选项为PHD、Master；毕业为Graduate
 
 user_groups:
-
   - Collaborators
 ---
