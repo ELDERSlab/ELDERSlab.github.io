@@ -22,11 +22,9 @@ url: ' [https://www.ncl.ac.uk/](https://www.ncl.ac.uk/) '
 # Short bio (displayed in user profile at end of posts)
 bio: Ageing research especially the potential impact of environment on health and wellbeing in later life
 interests:
-- Quantitative methods in ageing research
-
-- Environmental determinants of healthy ageing
-
-- Mental and cognitive health in older age
+  - Quantitative methods in ageing research
+  - Environmental determinants of healthy ageing
+  - Mental and cognitive health in older age
 education:
 courses:
   - course:PhD Public Health and Primary Care
