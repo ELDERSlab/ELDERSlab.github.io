@@ -115,4 +115,3 @@ user_groups:
 
 - Collaborators
 
----
