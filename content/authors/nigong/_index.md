@@ -26,7 +26,7 @@ organizations:
 
   - name: Jinan University
 
-    url: '**https://www.j****nu.edu.cn**'
+    url: 'https://www.jnu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 
