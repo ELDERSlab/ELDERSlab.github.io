@@ -14,8 +14,7 @@ last_name: Brunner
 superuser: false
 
 authors:
-
-- ericjohnbrunner
+  - ericjohnbrunner
 
 # Role/position
 
@@ -25,9 +24,9 @@ role: Professor of Social and Biological Epidemiology, University College London
 
 organizations:
 
-- name: University College London
+  - name: University College London
 
-url: ' [https://www.ucl.ac.uk/](https://www.ucl.ac.uk/) '
+    url: ' [https://www.ucl.ac.uk/](https://www.ucl.ac.uk/) '
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -35,29 +34,29 @@ bio: .
 
 interests:
 
-- biological and behavioural pathways including diet involved in the production of the social gradient in health
+  - biological and behavioural pathways including diet involved in the production of the social gradient in health
 
-- studies of successfulageing, including adaptation to existing morbidity and accelerated biological ageing
+  - studies of successfulageing, including adaptation to existing morbidity and accelerated biological ageing
 
-- psychosocial factors as a cause of cardiovascular disease
+  - psychosocial factors as a cause of cardiovascular disease
 
-- feasibility of targeted diabetes screening
+  - feasibility of targeted diabetes screening
 
 education:
 
-courses:
+  courses:
 
-- course: Doctor of Philosophy
+    - course: Doctor of Philosophy
 
-institution: University College London
+      institution: University College London
 
-- course: Master of Science
+    - course: Master of Science
 
-institution: University College London
+      institution: University College London
 
-- course: Bachelor of Science (Honours)
+    - course: Bachelor of Science (Honours)
 
-institution: University of Exeter
+      institution: University of Exeter
 
 # Social/Academic Networking
 
@@ -69,23 +68,23 @@ institution: University of Exeter
 
 social:
 
-- icon: envelope
+  - icon: envelope
 
-icon_pack: fas
+    icon_pack: fas
 
-link: 'mailto: [e.brunner@ucl.ac.uk](mailto:e.brunner@ucl.ac.uk) '
+    link: "mailto:e.brunner@ucl.ac.uk"
 
-- icon: google-scholar
+  - icon: google-scholar
 
-icon_pack: ai
+    icon_pack: ai
 
-link:  [https://scholar.google.com/citations?user=imdMbRwAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=imdMbRwAAAAJ&hl=zh-CN) 
+    link: "https://scholar.google.com/citations?user=imdMbRwAAAAJ&hl=zh-CN)"
 
-- icon: researchgate
+  - icon: researchgate
 
-icon_pack: fab
+    icon_pack: fab
 
-link:  [https://www.researchgate.net/profile/Eric-Brunner-4](https://www.researchgate.net/profile/Eric-Brunner-4) 
+    link: "https://www.researchgate.net/profile/Eric-Brunner-4"
 
 # Link to a PDF of your resume/CV from the About widget.
 
@@ -110,5 +109,5 @@ highlight_name: false
 # Set this to  []  or comment out if you are not using People widget.
 
 user_groups:
-
-- Collaborators
+  - Collaborators
+---
