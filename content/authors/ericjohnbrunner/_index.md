@@ -1,3 +1,4 @@
+---
 # Display name
 
 title: Eric Brunner
@@ -110,4 +111,4 @@ highlight_name: false
 
 user_groups:
 
-- Collaborator
+- Collaborators
