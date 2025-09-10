@@ -65,7 +65,7 @@ social:
 
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: "https://scholar.google.com/citations?user=ydtJY5UAAAAJ&hl=zh-CN&oi=sra"
 
   - icon: researchgate
     icon_pack: fab
