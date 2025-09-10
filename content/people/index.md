@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
-          - Collaborator
+          - Collaborators
           - PHD
           - Master
           - Graduate
