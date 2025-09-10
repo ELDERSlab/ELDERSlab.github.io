@@ -3,57 +3,37 @@
 title: Yu-Tzu Wu
 
 # Full Name (for SEO)
-
 first_name: Yu-Tzu
-
 last_name: Wu
 
 # Is this the primary user of the site?
-
 superuser: false
-
 authors:
-
 - yutzuwu
 
 # Role/position
-
 role: Royal Statistical Society Chartered Statistician,Fellow of the UK Higher Education Academy,Fellow of Newcastle University Policy Academy,Committee member of World Health Organisation Consortium on Metrics and Evidence for Healthy Ageing
 
 # Organizations/Affiliations
-
 organizations:
-
 - name: Newcastle University
-
 url: ' [https://www.ncl.ac.uk/](https://www.ncl.ac.uk/) '
 
 # Short bio (displayed in user profile at end of posts)
-
 bio: Ageing research especially the potential impact of environment on health and wellbeing in later life
-
 interests:
-
 - Quantitative methods in ageing research
 
 - Environmental determinants of healthy ageing
 
 - Mental and cognitive health in older age
-
 education:
-
 courses:
-
 - course:PhD Public Health and Primary Care
-
 institution: University of Cambridge
-
 - course: MSc Health and Society: Social Epidemiology
-
 institution: University College London
-
 - course: BSc Public Health
-
 institution: National Taiwan University
 
 # Social/Academic Networking
@@ -108,4 +88,4 @@ highlight_name: false
 
 user_groups:
  - Collaborators
----
+
