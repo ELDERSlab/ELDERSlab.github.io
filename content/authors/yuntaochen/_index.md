@@ -19,7 +19,7 @@ superuser: false
 
 # Master's in Epidemiology and Health Statistics
 
-role: Senior Fellow Researcher,Faculty of Brain Science,University College London
+role: "Senior Fellow Researcher,Faculty of Brain Science,University College London"
 
 # Organizations/Affiliations
 organizations:
@@ -34,19 +34,18 @@ bio: dynamic prediction models and longitudinal modelling of modifiable risk fac
 
 # 感兴趣领域（必需）
 interests:
-
-- Environmental epidemiology: air pollution and cognition and dementia.
-- Statistical Modelling in ageing research Epidemiological projections (for dementia and disability), economic and policy scenario modelling using Markov simulation.
-- Clinical prediction models: static prediction models using baseline variables only (including some complex settings such as competing risks and individual participant data meta-analysis), and dynamic prediction models incorporating time-dependent variables as well; Focus also lies in comparison between different dynamic prediction models (joint modelling, Hidden Markov models and Landmarking).
+  - Environmental epidemiology: air pollution and cognition and dementia.
+  - Statistical Modelling in ageing research Epidemiological projections (for dementia and disability), economic and policy scenario modelling using Markov simulation.
+  - Clinical prediction models: static prediction models using baseline variables only (including some complex settings such as competing risks and individual participant data meta-analysis), and dynamic prediction models incorporating time-dependent variables as well; Focus also lies in comparison between different dynamic prediction models (joint modelling, Hidden Markov models and Landmarking).
 
 education:
-courses:
-- course: Ph.D. in Epidemiology
-institution: University of Groningen
-year: 2017-2021
-- course: Master of Science in Biostatistics
-institution: Fudan University
-year: 2014-2017
+  courses:
+    - course: Ph.D. in Epidemiology
+      institution: University of Groningen
+      year: 2017-2021
+    - course: Master of Science in Biostatistics
+      institution: Fudan University
+      year: 2014-2017
 
 # Social/Academic Networking
 
@@ -86,4 +85,5 @@ link:  [https://www.researchgate.net/profile/Yuntao-Chen](https://www.researchg
 
 user_groups:
 
-- Collaborators
+  - Collaborators
+---
