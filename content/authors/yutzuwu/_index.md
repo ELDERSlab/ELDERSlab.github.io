@@ -29,11 +29,11 @@ interests:
 - Mental and cognitive health in older age
 education:
 courses:
-- course:PhD Public Health and Primary Care
+  - course:PhD Public Health and Primary Care
 institution: University of Cambridge
-- course: MSc Health and Society: Social Epidemiology
+  - course: MSc Health and Society: Social Epidemiology
 institution: University College London
-- course: BSc Public Health
+  - course: BSc Public Health
 institution: National Taiwan University
 
 # Social/Academic Networking
@@ -87,5 +87,6 @@ highlight_name: false
 # Set this to  []  or comment out if you are not using People widget.
 
 user_groups:
- - Collaborators
+  - Collaborators
+---
 
