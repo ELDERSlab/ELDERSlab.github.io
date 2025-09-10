@@ -108,5 +108,4 @@ highlight_name: false
 
 user_groups:
 
-- Researcher
-- Collaborator
+- Collaborators
