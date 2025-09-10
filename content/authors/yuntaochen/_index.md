@@ -60,21 +60,15 @@ social:
 # 邮件（必需）
 
   - icon: envelope
-
     icon_pack: fas
-
     link: "mailto:yuntao.chen@ucl.ac.uk"
 
   - icon: google-scholar
-
     icon_pack: ai
-
     link: "https://scholar.google.com/citations?user=ydtJY5UAAAAJ&hl=zh-CN&oi=sra"
 
   - icon: researchgate
-
     icon_pack: fab
-
     link: "https://www.researchgate.net/profile/Yuntao-Chen"
 
 # Organizational groups that you belong to (for People widget)
