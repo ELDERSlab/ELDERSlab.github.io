@@ -34,6 +34,7 @@ bio: dynamic prediction models and longitudinal modelling of modifiable risk fac
 
 # 感兴趣领域（必需）
 interests:
+
 - Environmental epidemiology: air pollution and cognition and dementia.
 - Statistical Modelling in ageing research Epidemiological projections (for dementia and disability), economic and policy scenario modelling using Markov simulation.
 - Clinical prediction models: static prediction models using baseline variables only (including some complex settings such as competing risks and individual participant data meta-analysis), and dynamic prediction models incorporating time-dependent variables as well; Focus also lies in comparison between different dynamic prediction models (joint modelling, Hidden Markov models and Landmarking).
