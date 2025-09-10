@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD Public Health and Primary Care
       institution: University of Cambridge
-    - course: MSc Health and Society: Social Epidemiology
+    - course: MSc Health and Society，Social Epidemiology
       institution: University College London
     - course: BSc Public Health
       institution: National Taiwan University
