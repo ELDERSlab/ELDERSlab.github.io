@@ -14,20 +14,19 @@ last_name: Gong
 superuser: false
 
 authors:
-
 - nigong
 
 # Role/position
 
-role:
+role: Associate Professor, School of Nursing, Jinan University
 
 # Organizations/Affiliations
 
 organizations:
 
-- name: Jinan University
+  - name: Jinan University
 
-url: '**https://www.j****nu.edu.cn**'
+    url: '**https://www.j****nu.edu.cn**'
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -35,31 +34,31 @@ bio: integrating theoretical knowledge from sociology and anthropology, interpre
 
 interests:
 
-- Medical anthropology
+  - Medical anthropology
 
-- Aging and chronic disease management
+  - Aging and chronic disease management
 
 education:
 
-courses:
+  courses:
 
-- course: Ph.D. in Sociology and Anthropology
+    - course: Ph.D. in Sociology and Anthropology
 
-institution: Sun Yat-sen University
+      institution: Sun Yat-sen University
 
-year: 2013-2016
+      year: 2013-2016
 
-- course: Master of Sociology and Anthropology
+    - course: Master of Sociology and Anthropology
 
-institution: Sun Yat-sen University
+      institution: Sun Yat-sen University
 
-year: 2010-2012
+      year: 2010-2012
 
-- course: Bachelor of Foreign Languages
+    - course: Bachelor of Foreign Languages
 
-institution: South-Central Minzu University
+      institution: South-Central Minzu University
 
-year: 2006-2010
+      year: 2006-2010
 
 # Social/Academic Networking
 
@@ -71,23 +70,20 @@ year: 2006-2010
 
 social:
 
-- icon: envelope
+  - icon: envelope
 
-icon_pack: fas
+    icon_pack: fas
 
-link: 'mailto:'
+    link: 'mailto:'
 
-- icon: google-scholar
+  - icon: google-scholar
 
-icon_pack: ai
+    icon_pack: ai
 
-link:
+  - icon: researchgate
 
-- icon: researchgate
+    icon_pack: fab
 
-icon_pack: fab
-
-link:
 
 # Link to a PDF of your resume/CV from the About widget.
 
@@ -112,6 +108,5 @@ highlight_name: false
 # Set this to  []  or comment out if you are not using People widget.
 
 user_groups:
-
-- Collaborators
-
+  - Collaborators
+---
