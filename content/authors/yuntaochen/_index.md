@@ -24,7 +24,7 @@ role: "Senior Fellow Researcher,Faculty of Brain Science,University College Lond
 # Organizations/Affiliations
 organizations:
 - name: University College London
-  url: ' [https://www.ucl.ac.uk/](https://www.ucl.ac.uk/) '
+  url: 'https://www.ucl.ac.uk/ '
 
 # 研究方向（必需）
 
@@ -65,7 +65,7 @@ social:
 
   - icon: google-scholar
     icon_pack: ai
-    link: "https://scholar.google.com/citations?user=ydtJY5UAAAAJ&hl=zh-CN&oi=sra"
+    link: 
 
   - icon: researchgate
     icon_pack: fab
