@@ -26,7 +26,7 @@ organizations:
 
   - name: University College London
 
-    url: ' [https://www.ucl.ac.uk/](https://www.ucl.ac.uk/) '
+    url: 'https://www.ucl.ac.uk/'
 
 # Short bio (displayed in user profile at end of posts)
 
