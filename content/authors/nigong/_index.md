@@ -1,63 +1,44 @@
 ---
 # Display name
-
 title: Ni Gong
 
 # Full Name (for SEO)
-
 first_name: Ni
-
 last_name: Gong
 
 # Is this the primary user of the site?
-
 superuser: false
 
 authors:
-- nigong
+  - nigong
 
 # Role/position
 
 role: Associate Professor, School of Nursing, Jinan University
 
 # Organizations/Affiliations
-
 organizations:
-
   - name: Jinan University
-
     url: 'https://www.jnu.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-
 bio: integrating theoretical knowledge from sociology and anthropology, interprets nursing issues, with a particular focus on research in the fields of aging and chronic disease management
 
 interests:
 
   - Medical anthropology
-
   - Aging and chronic disease management
 
 education:
-
   courses:
-
     - course: Ph.D. in Sociology and Anthropology
-
       institution: Sun Yat-sen University
-
       year: 2013-2016
-
     - course: Master of Sociology and Anthropology
-
       institution: Sun Yat-sen University
-
       year: 2010-2012
-
     - course: Bachelor of Foreign Languages
-
       institution: South-Central Minzu University
-
       year: 2006-2010
 
 # Social/Academic Networking
@@ -69,19 +50,12 @@ education:
 # form "mailto: [your-email@example.com](mailto:your-email@example.com) " or "#contact" for contact widget.
 
 social:
-
   - icon: envelope
-
     icon_pack: fas
-
     link: 'mailto:'
-
   - icon: google-scholar
-
     icon_pack: ai
-
   - icon: researchgate
-
     icon_pack: fab
 
 
