@@ -10,7 +10,7 @@ last_name: Chen
 
 # （必需）用户名 (需与文件夹名字相同，不能有空格)
 authors:
-- yuntaochen
+  - yuntaochen
 
 # Is this the primary user of the site?
 superuser: false
