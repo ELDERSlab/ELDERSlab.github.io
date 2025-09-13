@@ -48,7 +48,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 # 在读选项为PHD、Master；毕业为Graduate
 user_groups:
-  - alumnus
+  - Researcher
 ---
 
 
