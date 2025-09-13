@@ -77,5 +77,5 @@ social:
 # 在读选项为PHD、Master；毕业为Graduate
 
 user_groups:
-  - Collaborators
+  - Researchers
 ---
