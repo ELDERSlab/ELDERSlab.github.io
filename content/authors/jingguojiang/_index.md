@@ -50,6 +50,7 @@ social:
 user_groups:
   - Team members
 ---
+
 Jiang Jinguo holds a Master's degree in Epidemiology and Health Statistics. Through past research, she has extensive experience in cohort study design, implementation, and data analysis. Currently pursuing her PhD studies focused on Alzheimer's disease prediction and early screening, she aims to integrate multimodal data to identify and validate novel early digital biomarkers.
 
 
