@@ -52,7 +52,7 @@ email: 'zhouyj98@mail2.sysu.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - Team members
 ---
 
 Yujing Zhou is a Master’s student in Public Health and Preventive Medicine at Sun Yat-sen University, holding a bachelor’s degree in Economic Statistics from Renmin University of China. His research focuses on global health and health economics, particularly Alzheimer’s disease burden and health policy impact evaluation, aiming to bridge economics and public health for equitable policy solutions. He welcomes collaborations with research teams to advance evidence-based health interventions.
