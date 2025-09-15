@@ -71,4 +71,5 @@ user_groups:
   - Researchers
 ---
 
+
 Dr. Jing Liao’s research is mainly on healthy ageing, exploring the dynamic interactions between social network, health-related behaviors with physical, cognitive and social functions. Longitudinal modelling based on global ageing cohorts is used to identify key socio-determinants of healthy ageing, with potential treatment effects verified by community-based randomized controlled trials.
