@@ -54,7 +54,7 @@ email: 'zhouyj98@mail2.sysu.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - Team members
 ---
 
 Honghao Zeng is a Master’s student in Medical Statistics at Sun Yat-sen University, with a bachelor's degree in Public Health and Preventive Medicine from the same institution. His research centers on global health, with a particular focus on estimating and quantifying the population attributable fraction (PAF) of risk factors for Alzheimer’s disease. He is open to research collaborations aimed at promoting evidence-based health interventions.
