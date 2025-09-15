@@ -48,7 +48,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 # 在读选项为PHD、Master；毕业为Graduate
 user_groups:
-  - PHD
+  - Team members
 ---
 Jiang Jinguo holds a Master's degree in Epidemiology and Health Statistics. Through past research, she has extensive experience in cohort study design, implementation, and data analysis. Currently pursuing her PhD studies focused on Alzheimer's disease prediction and early screening, she aims to integrate multimodal data to identify and validate novel early digital biomarkers.
 
