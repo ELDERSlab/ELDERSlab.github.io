@@ -52,7 +52,7 @@ email: 'xuyx56@mail2.sysu.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - Team members
 ---
 
 Yingxin Xu is a Master's student in the Department of Epidemiology and Medical Statistics at the School of Public Health, Sun Yat-sen University. Her research focuses on healthy aging, with a particular emphasis on cognitive frailty in older adults. Currently, she is conducting a study on the longitudinal trajectories of cognitive frailty, aiming to investigate the dynamic patterns of cognitive decline and physical frailty, as well as their influencing factors. This research seeks to provide a scientific basis for early screening and targeted intervention strategies for cognitive frailty.
