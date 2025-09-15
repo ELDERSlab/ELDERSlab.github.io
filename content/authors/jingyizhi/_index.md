@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - Team members
 ---
 
 Jingyi Zhi is a second-year Master's student in the Department of Epidemiology and Health Statistics at the School of Public Health, Sun Yat-sen University (SYSU). As a member of the ELDERS research team led by Professor Liao Jing, her research primarily focuses on applying health economics and behavioral economics methodologies to the design and evaluation of strategies for the early prevention and intervention management of dementia. Within the team, she is primarily responsible for organizing and coordinating field investigations. 
