@@ -52,7 +52,7 @@ email: 'sunrn6@mail2.sysu.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PHD
+  - Team members
 ---
 
 Ruini Sun is a PhD student focusing on the implementation and evaluation of digital health interventions for older adults with cognitive decline. Her research interests lie in integrating behavioral science and implementation frameworks to explore adherence challenges and develop adaptive strategies tailored to individual needs, with the goal of improving the effectiveness, feasibility, and sustainability of digital interventions in community-based settings. She is currently employing quantitative and mixed method approaches to investigate social embedding support and adaptive intervention design, aiming to advance digital solutions for cognitive health promotion in aging populations.
