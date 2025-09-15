@@ -52,7 +52,7 @@ email: 'dongxx7@mail2.sysu.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - Team members
 ---
 
 Xiaoxi Dong is a graduate student whose research focuses on the influence of social determinants on the health trajectories of older adults. By combining longitudinal cohort modeling with community-based randomized controlled trials, she aims to develop early risk prediction models for Alzheimer’s disease. Her work applies innovative prospective statistical methodologies to optimize intervention strategies, ultimately contributing to the promotion of healthy aging.
