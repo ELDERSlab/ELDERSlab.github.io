@@ -19,7 +19,7 @@ sections:
           - Graduate
           - Visitors
           - Alumni
-      sort_by: Params.latest commit
+      sort_by: Latest commit
       sort_ascending: true
     design:
       show_interests: false
