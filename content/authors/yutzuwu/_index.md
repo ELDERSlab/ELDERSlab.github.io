@@ -13,7 +13,7 @@ authors:
   - yutzuwu
 
 # Role/position
-role: "Royal Statistical Society Chartered Statistician,Fellow of the UK Higher Education Academy,Fellow of Newcastle University Policy Academy,Committee member of World Health Organisation Consortium on Metrics and Evidence for Healthy Ageing"
+role: "Royal Statistical Society Chartered Statistician,Fellow of Newcastle University Policy Academy"
 
 # Organizations/Affiliations
 organizations:
