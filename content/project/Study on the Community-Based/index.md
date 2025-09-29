@@ -5,7 +5,7 @@ title: Study on the community-based social embedding implementation strategy for
 date: '2023-06-01T13:00:00Z'
 date_end: '2025-06-01T15:00:00Z'
 authors:
-- MinWu
+- RuiniSun
 
 ---
 To enhance adherence to cognitive training and improve intervention outcomes through a community-based social embedding implementation strategy.
@@ -24,6 +24,7 @@ To enhance adherence to cognitive training and improve intervention outcomes thr
 [Wu, M., Feng, J., Sun, R., Zhang, S., Zhang, Y., Yang, F., Zhang, X., Ye, Y., Gong, N., and Liao, J. *, 2025. Validity and usability for digital cognitive assessment tools to screen for mild cognitive impairment: a randomized crossover trial. Journal of NeuroEngineering and Rehabilitation, 22, pp.132]({{< relref "/publication/Wu_M_2025_Validity_and" >}})
 
 [Zhang, S., Wu, M., Sun, R., Cui, C., Zhang, Z., Liao, J.* and Gong, N., 2025. Exploring the discontinuous usage behavior of digital cognitive training among older adults with mild cognitive impairment and their family members: qualitative study using the extended model of IT continuance. Journal of Medical Internet Research, 27, pp.e66393]({{< relref "/publication/Zhang_S_2025_Exploring_discontinuous" >}})
+
 
 
 
