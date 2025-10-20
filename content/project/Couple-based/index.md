@@ -4,7 +4,15 @@ title: Couple-based collaborative diabetes management project
 # 开始时间和结束时间
 date: '2020-06-01T13:00:00Z'
 date_end: '2023-06-01T15:00:00Z'
-
+authors:
+- admin
+- conghuiyang
+- jingyizhi
+- yingxinxu
+- xinyufan
+- yixuanliu
+- huiqiongzheng
+- minwu
 ---
 To validate a Couple-based Collaborative Management Model of chronic diseases that integrates health professionals and family supporters
 <!--more-->
@@ -29,3 +37,4 @@ To validate a Couple-based Collaborative Management Model of chronic diseases th
 [Liao, J., Zhang, J., Xie, J. and Gu, J., 2021. Gender specificity of spousal concordance in the development of chronic disease among middle-aged and older Chinese couples: a prospective dyadic analysis. International Journal of Environmental Research and Public Health, 18(6), p.2886]({{< relref "/publication/Jing_Liao_2021_Gende_Specificity" >}})
 
 [Liao, J., Wu, X., Wang, C., Xiao, X., Cai, Y., Wu, M., Liu, Y., Chen, X., Wu, S., Yang, Y.J. and Xu, D., 2020. Couple-based collaborative management model of type 2 diabetes mellitus for community-dwelling older adults in China: protocol for a hybrid type 1 randomized controlled trial. BMC Geriatrics, 20, pp.1-11]({{< relref "/publication/Jing_Liao_2020_Couple-based_collaborative" >}})
+
