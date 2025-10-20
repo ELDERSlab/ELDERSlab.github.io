@@ -5,8 +5,9 @@ title: Research on the cultural appropriateness of constructing end-of-Life care
 date: '2020-06-01T13:00:00Z'
 date_end: '2023-06-01T15:00:00Z'
 authors:
-  - Ni Gong
-
+  - nigong
+  - qianyuhe
+  - admin
 ---
 To outline the current rural end-of-life practice landscape, and construct a culturally adapted rural end-of-life care model.
 
@@ -23,4 +24,5 @@ To outline the current rural end-of-life practice landscape, and construct a cul
 [Gong, N., Yang, D., Zou, J., He, Q., Hu, L., Chen, W. and Liao, J.*, 2023. Exploring barriers to dementia screening and management services by general practitioners in China: a qualitative study using the COM-B model. BMC Geriatrics, 23(1), pp.55]({{< relref "/publication/Ni_Gong_2023_Exploring_barriers" >}})
 
 [Liao, J., Chen, Y., Cai, Y., Zhan, N., Sylvia, S., Hanson, K., Wang, H., Wasserheit, J.N., Gong, W., Zhou, Z. and Pan, J., 2018. Using smartphone-based virtual patients to assess the quality of primary healthcare in rural China: protocol for a prospective multicentre study. BMJ Open, 8(7), pp.e020943]({{< relref "/publication/Jing_Liao_2018_Using_smartphone-based" >}})
+
 
