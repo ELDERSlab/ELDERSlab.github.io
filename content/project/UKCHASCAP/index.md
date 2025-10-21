@@ -4,7 +4,14 @@ title: UKCHASCAP
 # 开始时间和结束时间
 date: '2020-06-01T13:00:00Z'
 date_end: '2023-06-01T15:00:00Z'
-
+authors:
+  - minruizeng
+  - yuntaochen
+  - ericjohnbrunner
+  - admin
+  - yanjuanwu
+  - yixuanliu
+  - yutzuwu
 ---
 To provide evidence for healthy aging in China and the UK by predicting the future dementia burden in both countries and evaluating potential intervention strategies.
 <!--more-->
@@ -25,6 +32,7 @@ To provide evidence for healthy aging in China and the UK by predicting the futu
 [Wu, Y., Liu, Y., Liu, Y., Chen, Y., Lobanov-Rostovsky, S., Zhang, Y., Liu, Y., Brunner, E.J., French, E. and Liao, J.*, 2024. Projections of socioeconomic costs for individuals with dementia in China 2020–2050: modeling study. Journal of Alzheimer's Disease, 101(4), pp.1-11]({{< relref "/publication/Yan_juan_Wu_2024_Projections_of" >}})
 
 [Liu, Y., Wu, Y., Cai, J., Huang, Y., Chen, Y., Venkatraman, T.M., Lobanov‐Rostovsky, S., Bandosz, P., Yang, Y., Wu, Y. and Liao, J.*, 2022. Is there a common latent cognitive construct for dementia estimation across two Chinese cohorts? Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 14(1), pp.e12356]({{< relref "/publication/Yu_yang_Liu_2022_Is_there" >}})
+
 
 
 
