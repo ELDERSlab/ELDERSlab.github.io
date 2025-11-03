@@ -1,5 +1,5 @@
 ---
-title: 赴日东京科技大学进行学术交流
+title: 赴日东京科技大学进行学术访问
 date: 2025-10-15
 ---
 中山大学公共卫生研究生院廖婧博士以 **“Dementia in China: Current and Future Health and Social Challenges and Policy Responses“** 为主题进行了演讲。
