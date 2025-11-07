@@ -4,9 +4,6 @@ date: 2025-07-16
 
 type: landing
 
-sort_by: "weight"
-sort_ascending: true
-
 sections:
   - block: people
     content:
@@ -22,7 +19,8 @@ sections:
           - Graduate
           - Visitors
           - Alumni
-      sort_ascending: true
+    sort_by: "weight"
+    sort_ascending: true
     design:
       show_interests: false
       show_role: true
