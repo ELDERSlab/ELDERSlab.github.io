@@ -20,7 +20,7 @@ sections:
           - Visitors
           - Alumni
       sort_by: "weight"
-      sort_ascending: true
+      sort_descending: true
     design:
       show_interests: false
       show_role: true
