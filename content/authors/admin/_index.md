@@ -12,6 +12,8 @@ superuser: true
 authors:
 - admin
 
+weight:1
+
 # Role/position
 role: Associate professor, Department of Medical Statistics & Epidemiology| SYSU Global Health Institute (SGHI), Sun Yat-sen University, China 
 
