@@ -19,7 +19,7 @@ sections:
           - Graduate
           - Visitors
           - Alumni
-      sort_by: "weight"
+      sort_by: "Params.weight"
       sort_ascending: true
     design:
       show_interests: false
