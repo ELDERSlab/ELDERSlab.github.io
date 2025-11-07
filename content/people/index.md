@@ -4,6 +4,9 @@ date: 2025-07-16
 
 type: landing
 
+sort_by: "weight"
+sort_ascending: true
+
 sections:
   - block: people
     content:
