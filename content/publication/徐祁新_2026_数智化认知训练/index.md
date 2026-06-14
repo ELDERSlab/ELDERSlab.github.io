@@ -11,8 +11,12 @@ authors:
   - weiyangsu
   - wohongshen
   - admin
-date: 2026T00:00:00Z
+date: 2026-01-01T00:00:00Z
 doi: 10.3969/j.issn.1008-8296.2026.02.005
+        
+        
+        
+        
 publishDate: 2017-01-01T00:00:00Z
 publication_types:
   - article-journal
