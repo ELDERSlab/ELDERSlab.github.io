@@ -9,8 +9,12 @@ authors:
   - qiaoliu
   - admin
   
-date: 2025-04-10T00:00:00Z
+date: 2026-04-10T00:00:00Z
 doi: 10.3389/fpubh.2026.1781781
+        
+        
+        
+        
 publishDate: 2017-01-01T00:00:00Z
 publication_types:
   - article-journal
